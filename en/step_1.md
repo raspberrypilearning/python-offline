@@ -4,7 +4,7 @@ To use the Python programming language offline, you will need to have Python ins
 
 Thonny is a learner friendly IDE that comes packaged with Python.
 
-You can download Thonny for Microsoft Windows, macOS and Linux at [https://thonny.org/](https://thonny.org/)
+You can download Thonny for Microsoft Windows, macOS and Linux at [https://thonny.org/](https://thonny.org/){:target='_blank'}
 
 ![thonny download banner from https://thonny.org](images/thonny_download.png)
 
