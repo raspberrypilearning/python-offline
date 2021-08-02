@@ -8,8 +8,9 @@ You can download Thonny for MicroSoft Windows, macOS and Linux at [https://thonn
 
 ![thonny download banner from https://thonny.org](images/thonny_download.png)
 
-![the thonny user interface showing icons for new files, saving, running code and stopping a program. The editor and shell are shown with a Hello World program having been executed](images/thonny_ui.png)
-
 The two main areas are the **Scripts tabs** where you write your Python program, and the **Shell** where the results of your program will be displayed.
 
 There are standard icons in the tool bar for creating new files, saving your work, and running or stopping your programs.
+
+![the thonny user interface showing icons for new files, saving, running code and stopping a program. The editor and shell are shown with a Hello World program having been executed](images/thonny_ui.png)
+
