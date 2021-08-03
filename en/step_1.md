@@ -1,5 +1,3 @@
-## Using Python offline
-
 To use the Python programming language offline, you will need to have Python installed and access to a text editor or an Interactive Development Environment (IDE) with Python support. 
 
 Thonny is a learner friendly IDE that comes packaged with Python.
